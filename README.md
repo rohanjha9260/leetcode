@@ -1,6 +1,6 @@
 # LeetCode Solutions 🚀
 
-Welcome to my LeetCode repository! This space contains my solutions to various data structures and algorithms problems from [LeetCode](https://leetcode.com/). 
+Welcome to my LeetCode repository! This space contains my solutions to various data structures and algorithms problems from LeetCode. 
 
 ## 🎯 Purpose
 *   **Track Progress:** To maintain a consistent record of my problem-solving journey and daily coding habits.
@@ -9,9 +9,8 @@ Welcome to my LeetCode repository! This space contains my solutions to various d
 
 ## 💻 Tech Stack
 The solutions in this repository are primarily written using:
-*   Java
+*   C++
 *   Python
-*   JavaScript / TypeScript
 
 ## 📂 Repository Structure
 Depending on how problems are added, each file or folder corresponds to a specific LeetCode question. Solutions typically feature:
