@@ -22,3 +22,11 @@ Depending on how problems are added, each file or folder corresponds to a specif
 
 ---
 *Consistency is key. Happy coding!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/rohanjha9260/leetcode/tree/main/0009-palindrome-number/) | Easy |
+<!---LeetCode Topics End-->
