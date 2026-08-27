@@ -37,4 +37,12 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rohanjha9260/leetcode/tree/main/0125-valid-palindrome/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rohanjha9260/leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rohanjha9260/leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
