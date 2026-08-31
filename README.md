@@ -57,4 +57,12 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohanjha9260/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rohanjha9260/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rohanjha9260/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
