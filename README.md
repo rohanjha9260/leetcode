@@ -30,6 +30,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rohanjha9260/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/rohanjha9260/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,13 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rohanjha9260/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/rohanjha9260/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanjha9260/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rohanjha9260/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
