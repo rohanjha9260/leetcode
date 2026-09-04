@@ -45,6 +45,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rohanjha9260/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rohanjha9260/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohanjha9260/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -76,4 +77,8 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/rohanjha9260/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
