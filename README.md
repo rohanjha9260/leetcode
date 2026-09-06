@@ -35,6 +35,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohanjha9260/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/rohanjha9260/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | [0001-two-sum](https://github.com/rohanjha9260/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rohanjha9260/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohanjha9260/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -99,4 +101,8 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohanjha9260/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
