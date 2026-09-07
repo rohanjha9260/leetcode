@@ -48,6 +48,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rohanjha9260/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/rohanjha9260/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohanjha9260/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -84,6 +85,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
