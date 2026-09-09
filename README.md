@@ -51,6 +51,7 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rohanjha9260/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/rohanjha9260/leetcode/tree/main/0136-single-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohanjha9260/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -107,4 +108,8 @@ Depending on how problems are added, each file or folder corresponds to a specif
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/rohanjha9260/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/rohanjha9260/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
